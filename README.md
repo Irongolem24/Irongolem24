@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Irongolem24/Irongolem24/blob/main/irongolem.png" width="200" />
+  <img src="https://github.com/Irongolem24/Irongolem24/blob/main/irongolem.png" width="300" />
 </div>
 
 
