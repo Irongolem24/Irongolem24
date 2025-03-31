@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Irongolem24/Irongolem24/blob/main/irongolem.png" />
+  <img src="https://github.com/Irongolem24/Irongolem24/blob/main/irongolem.png" width="200" />
 </div>
+
 
 <h1 align="center">🌹 Look, there's a pretty flower here!</h1>
 <h3 align="center">Just like flowers that everyone loves, I hope to be a programmer loved by all.</h3>
