@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="" />
+</div>
+
 <h1 align="center">🌹 Look, there's a pretty flower here!</h1>
 <h3 align="center">Just like flowers that everyone loves, I hope to be a programmer loved by all.</h3>
 
