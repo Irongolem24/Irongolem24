@@ -1,24 +1,17 @@
-# 🌸 여기 예쁜 꽃이 있어요!  
+<h1 align="center">🌹 Look, there's a pretty flower here!</h1>
+<h3 align="center">Just like flowers that everyone loves, I hope to be a programmer loved by all.</h3>
 
-저는 **소프트웨어 프로그래머**로서, 사용자 중심의 애플리케이션과 안정적인 시스템을 만드는 것을 좋아합니다.  
-무언가를 ‘잘’ 만드는 것보다, ‘오래’ 사랑받을 수 있도록 만드는 것에 가치를 두고 있어요.
+- 🎣 I’m currently learning **Application Development using Java and Flutter**
 
-## 🚀 About Me
-- 🌱 **Java**와 **C#**을 활용한 **JDBC 기반 백엔드 프로그래밍** 경험
-- 📱 **Java** 및 **Flutter(Dart)** 기반 **모바일 앱 개발** 프로젝트 진행
-- 🛠️ 프로젝트에서 데이터 흐름을 설계하고, UI와 DB를 안정적으로 연결하는 일에 익숙합니다
+- 📫 How to reach me **Irongolem2421@gmail.com**
 
-## 🧰 Tech Stack
-| Language | Tools / Frameworks | Database |
-|---------|--------------------|----------|
-| Dart / Flutter<br>Java / C#<br>C / Python | Firebase<br>JDBC<br>Android SDK | MySQL<br>MSSQL |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-> + 추가적으로 Git, REST API, 간단한 서버 설정에도 익숙해요!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 📫 Contact & Links
-- GitHub: [@Irongolem24](https://github.com/Irongolem24)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irongolem24&show_icons=true&locale=en" alt="irongolem24" /></p>
 
----
-
-🙌 방문해 주셔서 감사합니다. 새로운 기술을 배우고, 더 나은 개발자가 되기 위해 오늘도 달리고 있어요!
 
